@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nopparuj Kanyasin (Oat) AKA Leglam</h2>
-<div style="display: flex; align-items: center; gap: 12px;">
-  <h4 style="margin: 0;">A curious mind and aspiring full-stack developer from Bangkok, Thailand 🇹🇭</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leglam&layout=compact&theme=radical&langs_count=8&hide_border=false" height="160" />
-</div>
+
+<h4>A curious mind and aspiring full-stack developer from Bangkok, Thailand 🇹🇭</h4>
 
 ---
 
@@ -46,6 +44,13 @@ I may not have all the answers yet — but I’m curious, adaptable, and I give 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leglam&show_icons=true&theme=radical&hide_border=false&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leglam&layout=compact&theme=radical&langs_count=10&hide_border=false" height="160" />
 </div>
 
 ---
