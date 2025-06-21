@@ -22,7 +22,7 @@ I may not have all the answers yet — but I’m curious, adaptable, and I give 
 
 ### 💼 Resume & Contact
 - 📄 View My Resume *[Click Here!](https://drive.google.com/file/d/1S4T4tD_x7UU3cejTms7Pjj5Lq0iI51Qu/view?usp=drive_link)*
-- 📧 Email: nopparuj.kanyasin@gmail.com
+- 📧 Email: nopparuj.kan@gmail.com
 
 ---
 
