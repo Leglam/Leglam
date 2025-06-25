@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 - 🎓 Bachelor’s degree in Computer Science (KMITL)
-- 🔭 Currently exploring deeper into NodeJS, Spring Boot, Java EE, and scalable backend architecture
+- 🔭 Currently exploring deeper into NodeJS, Spring Boot, and scalable backend architecture
 - 🧠 Enjoy solving problems, building UIs, and playing around with interactive web/game experiences
 - 🎮 Gamer at heart. Game dev with Unity & Construct 3 for fun and creativity
 - 🌱 Lifelong learner — always ready to adapt and grow
